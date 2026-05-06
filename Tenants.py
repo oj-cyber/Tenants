@@ -17,7 +17,7 @@ DASHBOARD_HTML = '''
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Tenant Management System</title>
+    <title>Scovia's Management System</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
