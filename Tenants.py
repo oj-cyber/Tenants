@@ -46,7 +46,7 @@ DASHBOARD_HTML = '''
 </head>
 <body>
     <div class="header">
-        <h1>🏢 Tenant Management System</h1>
+        <h1>🏢 Scovia's Management System</h1>
         <p>Student Project</p>
     </div>
     <div class="nav">
